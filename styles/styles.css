@@ -313,10 +313,10 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .laravel {
+.about-stats .progress-bars .progress-bar .progress-con .progress .data-analytics {
   width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .vue {
+.about-stats .progress-bars .progress-bar .progress-con .progress .machine-learning {
   width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
@@ -326,15 +326,15 @@ section {
   width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 80%;
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
+.about-stats .progress-bars .progress-bar .progress-con .progress .data-visualization {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .selenium {
+.about-stats .progress-bars .progress-bar .progress-con .progress .business-intelligence {
   width: 70%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .soapui {
+.about-stats .progress-bars .progress-bar .progress-con .progress .data-pipeline {
   width: 70%;
 }
 
